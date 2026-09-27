@@ -1,0 +1,5 @@
+# OnboardAI — files Bob should not read or index
+.env
+.temp-repos/
+output/
+node_modules/
